@@ -1,0 +1,13 @@
+
+Internet Speed Tester
+Written in python.
+
+Checks internet speed in upload and download in mb/s.
+
+to run it make sure you have speedtest.
+
+1. install speedtest "pip install speedtest-cli"
+or using brew "brew install speedtest-cli"
+
+2. Run:
+ "python3 main.py" 
